@@ -121,8 +121,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 68941,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/required/entityculling-fabric-1.7.2-mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/optionaloff/entityculling-fabric-1.7.2-mc1.20.1.jar",
             "MD5": "8395d258523597f03e11f49b3068310b"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -131,8 +135,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107985,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/required/fabric-api-0.92.3+1.20.1.jar",
+            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/optionaloff/fabric-api-0.92.3+1.20.1.jar",
             "MD5": "dc37eff29b709467379bc41ae4f721b4"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -141,8 +149,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125197,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/optionaloff/ferritecore-6.0.1-fabric.jar",
             "MD5": "a19272e427f75fea59127de6610ea26b"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -151,8 +163,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/optionaloff/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -161,8 +177,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 185895,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/required/krypton-0.2.3.jar",
+            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/optionaloff/krypton-0.2.3.jar",
             "MD5": "3bf353c1ab576b57c003109c079e2ec8"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -171,8 +191,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 706600,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.3.jar",
+            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/optionaloff/lithium-fabric-mc1.20.1-0.11.3.jar",
             "MD5": "de6d394cedf7e33bfd4b03209156211a"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -181,8 +205,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 968419,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/optionaloff/sodium-fabric-0.5.11+mc1.20.1.jar",
             "MD5": "9880bae748957d1cb6c4de50c8e0452a"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -191,8 +219,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 127368,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/required/starlight-1.1.2+fabric.dbc156f.jar",
+            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/optionaloff/starlight-1.1.2+fabric.dbc156f.jar",
             "MD5": "a0b391bf55891502c2074bd078bb5899"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -201,28 +233,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8082081,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.26.jar",
+            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/fabricmods/optionaloff/voicechat-fabric-1.20.1-2.5.26.jar",
             "MD5": "2c9d809c1b1c53863840ee3bce6f73a5"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 167,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/files/options.txt",
-            "path": "options.txt"
-          }
-        },
-        {
-          "id": "optionsshaders.txt",
-          "name": "optionsshaders.txt",
-          "type": "File",
-          "artifact": {
-            "size": 43,
-            "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.1/files/optionsshaders.txt",
-            "path": "optionsshaders.txt"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
