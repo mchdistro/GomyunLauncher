@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.4 (Fabric v0.16.13)",
       "icon": "https://github.com/mchdistro/GomyunLauncher/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "211.53.196.178",
+      "address": "minecraft.gomyun.xyz",
       "minecraftVersion": "1.20.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -231,9 +231,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 72,
+            "size": 96,
             "url": "https://github.com/mchdistro/GomyunLauncher/raw/main/servers/GomyunLauncher-1.20.4/files/servers.dat",
-            "MD5": "f03110d0d9d88ad927aa2b73be0e056e",
+            "MD5": "0fc332ceb3e92c706f9eabe6744b5046",
             "path": "servers.dat"
           }
         },

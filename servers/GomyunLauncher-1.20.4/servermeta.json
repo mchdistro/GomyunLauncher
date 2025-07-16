@@ -5,7 +5,7 @@
     "name": "곰윤서버",
     "description": "Minecraft 1.20.4 (Fabric v0.16.13)",
     "icon": "https://github.com/mchdistro/GomyunLauncher/raw/main/server-icon.png",
-    "address": "211.53.196.178",
+    "address": "minecraft.gomyun.xyz",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
